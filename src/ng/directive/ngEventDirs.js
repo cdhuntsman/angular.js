@@ -82,6 +82,8 @@ forEach(
  *
  * @description
  * The `ngDblclick` directive allows you to specify custom behavior on a dblclick event.
+ * 
+ * (THERE SHOULD BE SOME DISCUSSION HERE -- SEE PROPOSED FILE CHANGE NOTES)
  *
  * @element ANY
  * @priority 0
